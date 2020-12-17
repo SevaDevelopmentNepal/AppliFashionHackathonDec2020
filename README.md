@@ -3,9 +3,7 @@
 This is my Submission for Applitools Holiday Shopping Hackathon using `Applitools Ultrafast Grid`
 
 ## Test Framework Architecture
-
 <img title=“diagram” alt=“framework” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/architecture.png" />
-
 ### Components of Test Framework
 
 - `Elements` (All the locators are placed for maintainability)
