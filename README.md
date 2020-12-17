@@ -4,6 +4,7 @@ This is my Submission for Applitools Holiday Shopping Hackathon using `Applitool
 
 ## Test Framework Architecture
 <img title=“diagram” alt=“framework” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/architecture.png" />
+
 ### Components of Test Framework
 
 - `Elements` (All the locators are placed for maintainability)
@@ -31,10 +32,10 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 ### How to run the tests?
 
 - Go to **TestRuns** package
-- Right click on the test class ***Part1Tests***, Select `Run` as & Click on `Junit Test`
+- `Right click` on the test class ***Part1Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part1Tests*** is run successfully, observe the test result in Applitools dashboard
-- Right click on the test class ***Part2Tests***, Select `Run` as & Click on `Junit Test`
+- `Right click` on the test class ***Part2Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part2Tests*** is run successfully, observe the test result in Applitools dashboard
-- Right click on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
+- `Right click` on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
 
