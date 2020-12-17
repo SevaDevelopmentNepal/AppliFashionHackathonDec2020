@@ -31,8 +31,8 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 - Build Tool: Maven 4.0.0
 - Test Runner: Junit5 (junit-jupiter-api 5.6.0)
 - Other Dependencies:
-    - selenium-java-4.0.0-alpha-5
-    - webdriver-chrome-0.9.7376
+    - selenium-java 4.0.0-alpha-5
+    - selenium-chrome-driver 4.0.0-alpha-7
     - Applitools Eyes 3.178.0
 
 ### How to run the tests?
