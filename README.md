@@ -15,8 +15,11 @@ This is my Submission for Applitools Holiday Shopping Hackathon using `Applitool
 - `Commmon Utilities` (Common libraries of the project are placed)
 - `Base Test` (Contains all the test methods for reusability in multiple cycles)
 - `Test Runs` (Runs the same set of tests on different environments with different configurations on respective planned test cycles)
+  - Part 1 Tests (runs "V1 production version" on Chrome browser)
+  - Part 2 Tests (runs "Dev-branch version" on Chrome browser)
+  - Part 3 Tests (runs "Final production version" on Cross-Platform browsers)
 
-## Goal 
+## Primary Goal 
 
 The purpose of this test framework is to test 3 different URL versions of the same Applifashion website in different SDLC stages before the public release, where the developed website is initially bug-free in "V1 production version" and is later found buggy when tested in "Dev-branch version (buggy)". Post fixing of the discovered bugs, our tests are reran to verify if the website is production-ready post testing in "Final production version"
  1. V1 production version (bug-free)
