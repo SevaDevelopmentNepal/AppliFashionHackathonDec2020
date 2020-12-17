@@ -28,15 +28,15 @@ The purpose of this test framework is to test 3 different URL versions of the sa
 
 ## Instructions
 
-### About Test Framework
 This test framework is developed on ***JRE SE 14*** and run using **Applitools Eyes** & ***Selenium WebDriver*** in ***Java*** language, and is primarily built on **Maven**, additionally using **Junit5** test framework on **Eclipse IDE**. 
 
 ### How to run the tests?
 
 - Go to **TestRuns** package
-- Right click on the test class ***Part1Tests***, Select Run as & Click on Junit Test
+- Right click on the test class ***Part1Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part1Tests*** is run successfully, observe the test result in Applitools dashboard
-- Right click on the test class ***Part2Tests***, Select Run as & Click on Junit Test
+- Right click on the test class ***Part2Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part2Tests*** is run successfully, observe the test result in Applitools dashboard
-- Right click on the test class ***Part3Tests***, Select Run as & Click on Junit Test
+- Right click on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
+
