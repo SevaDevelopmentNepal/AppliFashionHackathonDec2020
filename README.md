@@ -40,3 +40,5 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 - `Right click` on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
 
+<img title=“diagram2” alt=“testrun” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/applitools-testrun.gif" />
+
