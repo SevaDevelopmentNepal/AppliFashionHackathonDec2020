@@ -30,16 +30,17 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 
 ### How to run the tests?
 
-<img title=“diagram2” alt=“testrun” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/applitools-testrun.gif" />
-
 - Clone the above repository or Download as Zip and import as Maven project in preferred IDE
 - Make sure to have maven configured in the machine and run the pom.xml file to install all dependencies into the test project
 - Go to **TestRuns** package of the test project framework
 - `Right click` on the test class ***Part1Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part1Tests*** is run successfully, observe the test result in Applitools dashboard
-- `Right click` on the test class ***Part2Tests***, Select `Run` as & Click on `Junit Test`
+
+  <img title=“diagram2” alt=“testrun” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/applitools-testrun.gif" />
+
+- Similarly, `Right click` on the test class ***Part2Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part2Tests*** is run successfully, observe the test result in Applitools dashboard
-- `Right click` on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
+- Similarly, `Right click` on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
 
 ### 📫 Author
