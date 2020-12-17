@@ -2,7 +2,7 @@
 
 This is my Submission for Applitools Holiday Shopping Hackathon using `Applitools Ultrafast Grid`
 ## Test Framework Architecture
-<img title=“diagram” alt=“framework” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/architecture.png" />
+<img title=“diagram1” alt=“framework1” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/architecture.png" />
 
 ### Components of Test Framework
 
@@ -12,10 +12,8 @@ This is my Submission for Applitools Holiday Shopping Hackathon using `Applitool
   - `Page Actions` (Web site related steps & logics are placed)
 - `Commmon Utilities` (Common libraries of the project are placed)
 - `Base Test` (Contains all the test methods for reusability in multiple cycles)
-- `Test Runs` (Runs the same set of tests on different environments with different configurations on respective planned test cycles)
-  - *Part 1 Tests* (runs "V1 production version" on Chrome browser)
-  - *Part 2 Tests* (runs "Dev-branch version" on Chrome browser)
-  - *Part 3 Tests* (runs "Final production version" on Cross-Platform browsers)
+- `Test Runs` (Runs the same set of tests on different environments with different configurations on respective planned test cycles)  
+  <img title=“diagram2” alt=“environments” src="https://github.com/suparna-khamaru/AppliFashionHackathonDec2020/blob/main/images/environments.png" />
 
 ## Primary Goal 
 
@@ -36,7 +34,7 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 - `Right click` on the test class ***Part1Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part1Tests*** is run successfully, observe the test result in Applitools dashboard
 
-  <img title=“diagram2” alt=“testrun” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/applitools-testrun.gif" />
+  <img title=“diagram3” alt=“testrun” src="https://github.com/suparna-khamaru/ApplitoolsHolidayShoppingHackathonDec2020/blob/main/images/applitools-testrun.gif" />
 
 - Similarly, `Right click` on the test class ***Part2Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part2Tests*** is run successfully, observe the test result in Applitools dashboard
