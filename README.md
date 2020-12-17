@@ -26,6 +26,15 @@ The purpose of this test framework is to test 3 different URL versions of the sa
 
 This test framework is developed on ***JRE SE 14*** and run using **Applitools Eyes** & ***Selenium WebDriver*** in ***Java*** language, and is primarily built on **Maven**, additionally using **Junit5** test framework on **Eclipse IDE**. 
 
+#### Prerequisites
+- Programming Language: Java 14
+- Build Tool: Maven 4.0.0
+- Test Runner: Junit5 (junit-jupiter-api 5.6.0)
+- Other Dependencies:
+    - selenium-java-4.0.0-alpha-5
+    - webdriver-chrome-0.9.7376
+    - Applitools Eyes 3.178.0
+
 ### How to run the tests?
 
 - Clone the above repository or Download as Zip and import as Maven project in preferred IDE
@@ -42,6 +51,7 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 - When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
 
 
+
 ### Test Results in Applitools Dashboard:
 
 ##### V1 Prod version URL
@@ -56,7 +66,7 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 
 
 
-### 📫 Creator
+### 📫 Find me
 
 #### Suparna Khamaru
 
