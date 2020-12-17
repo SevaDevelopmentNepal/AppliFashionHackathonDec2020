@@ -6,11 +6,11 @@ This is my Submission for Applitools Holiday Shopping Hackathon using `Applitool
 
 ### Components of Test Framework
 
-- `Elements` (All the locators are placed for maintainability)
-- `Actions` (All the resuable logics are added using the locators in Elements class)
-  - `Common Actions` (Selenium related logics are placed)
-  - `Page Actions` (Web site related steps & logics are placed)
-- `Commmon Utilities` (Common libraries of the project are placed)
+- `Elements` (All the locators are placed in `Elements` classes for maintainability)
+- `Actions` (All the resuable logics are added in `Action` classes which directly calls the locators from `Elements` classes)
+  - `Common Actions` (Selenium related logics are placed here)
+  - `Page Actions` (Web site related steps & logics are placed here)
+- `Commmon Utilities` (Common libraries of the project are placed here)
 - `Base Test` (Contains all the test methods for reusability in multiple cycles)
 - `Test Runs` (Runs the same set of tests on different environments with different configurations on respective planned test cycles)  
   <img title=“diagram2” alt=“environments” src="https://github.com/suparna-khamaru/AppliFashionHackathonDec2020/blob/main/images/environments.png" />
