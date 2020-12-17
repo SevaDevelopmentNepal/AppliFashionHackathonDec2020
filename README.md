@@ -15,9 +15,9 @@ This is my Submission for Applitools Holiday Shopping Hackathon using `Applitool
 - `Commmon Utilities` (Common libraries of the project are placed)
 - `Base Test` (Contains all the test methods for reusability in multiple cycles)
 - `Test Runs` (Runs the same set of tests on different environments with different configurations on respective planned test cycles)
-  - Part 1 Tests (runs "V1 production version" on Chrome browser)
-  - Part 2 Tests (runs "Dev-branch version" on Chrome browser)
-  - Part 3 Tests (runs "Final production version" on Cross-Platform browsers)
+  - *Part 1 Tests* (runs "V1 production version" on Chrome browser)
+  - *Part 2 Tests* (runs "Dev-branch version" on Chrome browser)
+  - *Part 3 Tests* (runs "Final production version" on Cross-Platform browsers)
 
 ## Primary Goal 
 
@@ -29,8 +29,14 @@ The purpose of this test framework is to test 3 different URL versions of the sa
 ## Instructions
 
 ### About Test Framework
-This test framework is developed and run using `Applitools Eyes` & `Selenium WebDriver` in `Java` language, and is primarily built on Maven, additionally using Junit5 test framework on Eclipse IDE.
-
+This test framework is developed on ***JRE SE 14*** and run using **Applitools Eyes** & ***Selenium WebDriver*** in ***Java*** language, and is primarily built on **Maven**, additionally using **Junit5** test framework on **Eclipse IDE**. 
 
 ### How to run the tests?
 
+- Go to **TestRuns** package
+- Right click on the test class ***Part1Tests***, Select Run as & Click on Junit Test
+- When all tests in test class ***Part1Tests*** is run successfully, observe the test result in Applitools dashboard
+- Right click on the test class ***Part2Tests***, Select Run as & Click on Junit Test
+- When all tests in test class ***Part2Tests*** is run successfully, observe the test result in Applitools dashboard
+- Right click on the test class ***Part3Tests***, Select Run as & Click on Junit Test
+- When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
