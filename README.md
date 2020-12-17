@@ -41,6 +41,7 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 - Similarly, `Right click` on the test class ***Part3Tests***, Select `Run` as & Click on `Junit Test`
 - When all tests in test class ***Part3Tests*** is run successfully, observe the test result in Applitools dashboard
 
+
 ### Test Results in Applitools Dashboard:
 
 ##### V1 Prod version URL
@@ -53,7 +54,9 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 ##### Final Prod version URL
     https://eyes.applitools.com/app/test-results/00000251794068600374?accountId=dQ9sYE9DBkKu1ffPFyh7oA~~&display=details&top=00000251794068600374%284%29
 
-### 📫 Author
+
+
+### 📫 By Author
 
 #### Suparna Khamaru
 
