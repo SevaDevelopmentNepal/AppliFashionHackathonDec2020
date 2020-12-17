@@ -56,7 +56,7 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 
 
 
-### 📫 By Author
+### 📫 Creator
 
 #### Suparna Khamaru
 
