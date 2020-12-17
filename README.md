@@ -52,7 +52,7 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 
 
 
-### Test Results in Applitools Dashboard:
+## Test Results in Applitools Dashboard:
 
 ##### V1 Prod version URL
     https://eyes.applitools.com/app/test-results/00000251794078845021?accountId=dQ9sYE9DBkKu1ffPFyh7oA~~&display=details&top=00000251794068600374%284%29
@@ -66,9 +66,9 @@ This test framework is developed on ***JRE SE 14*** and run using **Applitools E
 
 
 
-### 📫 Find me
+## 📫 Find me
 
 #### Suparna Khamaru
 
-<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="60"></a>|<a href="https://super-tester.medium.com/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="70"></a>|<a href="https://www.yourquote.in/suparna-khamaru-iurz/quotes"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/yourquote.png" width="70"></a>
-|--|--|--|--|
+<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="60"></a>|<a href="https://super-tester.medium.com/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="70"></a>
+|--|--|--|
